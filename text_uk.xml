@@ -4435,7 +4435,8 @@ Juhani Junkala - Epic Boss Battle;</info>
     <n>Корисна інформація та посилання:</n>
     <info>
       <a href="http://foe.ucoz.org/main.html">Сайт гри</a>
-      <a href="http://foe.ucoz.org/remains.html">Найостанніша версія гри</a>
+      <a href="http://foe.ucoz.org/remains.html">Найсвіжіша версія гри</a>
+      <a href="https://github.com/HalavicH/foe-remains-ukr">Найсвіжіша версія українізатора</a>
       <a href="https://fallout-equestria-remains.fandom.com/ru/wiki/Fallout_Equestria:_Remains_%D0%B2%D0%B8%D0%BA%D0%B8">Російська Wiki по грі</a>
       <a href="https://fallout-equestria-remains.fandom.com/wiki/Fallout_Equestria:_Remains_Wiki">Англійська Wiki по грі</a>
       <a href="https://discord.gg/qWYAbsp">Сервер Discord</a>
@@ -4446,7 +4447,7 @@ Juhani Junkala - Epic Boss Battle;</info>
     <n>Версія</n>
   </gui>
   <gui id="cancel">
-    <n>Скасування</n>
+    <n>Скасувати</n>
   </gui>
   <gui id="inputname">
     <n>Введіть ім'я вашого персонажа.</n>
